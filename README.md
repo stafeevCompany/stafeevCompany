@@ -20,11 +20,10 @@
 </div>
 <h2 align="center">Приложения</h2>
 <div align="center">
-  <img src ="https://avatars.mds.yandex.net/i?id=0f3204203196ac36e05bdd7d33d168636f3da68b-6498965-images-thumbs&n=13" height="100" widht="100"/>
+  <img src ="https://cdn-icons-png.flaticon.com/128/888/888883.png" height="100" widht="100"/>
   <img src ="https://i.pinimg.com/736x/8c/71/58/8c71585dab5d9c39242bd3e80f3418f8.jpg" height="100" widht="100"/>
   <img src ="https://avatars.mds.yandex.net/i?id=05f344531e6d7d87810a61429defaed3_l-9144630-images-thumbs&n=13" height="100" widht="100"/>
   <img src ="https://cdn-icons-png.flaticon.com/128/4494/4494740.png" height="700" widht="700"/>
-  <img src ="https://cdn-icons-png.flaticon.com/128/2748/2748941.png" height="700" widht="700"/>
   <img src ="https://cdn-icons-png.flaticon.com/128/5210/5210800.png" height="100" widht="100"/>
   <img src ="https://cdn-icons-png.flaticon.com/128/2496/2496687.png" height="100" widht="100"/>
   <img src ="https://cdn-icons-png.flaticon.com/128/732/732220.png" height="100" widht="100"/>
