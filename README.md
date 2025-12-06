@@ -8,7 +8,7 @@
   <li>Хочу развиваться в IT сфере 😅</li>
 </ul>
 <h1 align="center">Мои навыки</h1>
-<h2 align="center">Языки программирования</h2>
+<h2 align="center">:hammer_and_wrench:Языки программирования</h2>
 <div align="center">
   <img src ="https://avatars.mds.yandex.net/i?id=67d72d0b78217d35458594791888e574_l-9245043-images-thumbs&n=13" height="100" widht="100"/>
   <img src ="https://cdn-icons-png.flaticon.com/128/3128/3128323.png" height="100" widht="100"/>
