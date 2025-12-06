@@ -28,3 +28,8 @@
   <img src ="https://cdn-icons-png.flaticon.com/128/2496/2496687.png" height="100" widht="100"/>
   <img src ="https://cdn-icons-png.flaticon.com/128/732/732220.png" height="100" widht="100"/>
 </div>
+<h2 align="center">Статистика</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=stafeevCompany&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
+
